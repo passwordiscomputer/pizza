@@ -1,4 +1,12 @@
+SPECS:
+1. program allows user to choose from a list of toppings: Example input: Soyrizo, Daiya Cheese. Example outpuit: Thanks for your order
+2. Program creates a pizza object from the pizza toppings you give it
+3. Program returns a price for the pizza with the toppings
+example input: pesto, pineapple, soy curl example output: $15
+
+
 # _{Application Name}_
+
 
 #### _{Brief description of application}, {Date of current version}_
 
