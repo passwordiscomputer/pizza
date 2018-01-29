@@ -27,6 +27,7 @@ $(document).ready(function(){
     $("input:checkbox[name=toppings]:checked").each(function(){
       pizzaOrder.addTopping(this.value);
     });
+  $(".jumbotron").toggleClass("trippy");
   $("#pizzaPrice").text("The cost of your pizza is $" + pizzaOrder.getPrice())
   });
 });

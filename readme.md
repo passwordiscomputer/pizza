@@ -5,41 +5,36 @@ SPECS:
 example input: pesto, pineapple, soy curl example output: $15
 
 
-# _{Application Name}_
+# _{Big Mikes PIzza Pricer}_
 
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{Big mikes pizza a site that gives you the price on pies that big mike will charge you}, {1-29-18}_
 
-#### By _**{List of contributors}**_
+#### By _**{CHASE BOWDEN}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{This application takes in information on pizza size and toppings that the customer would like. IT then gives them a price. If they would like to order the pizza jsut call big mikes and tell him you used his website for a 10% discount }_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* just open the site no set up required
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{No Known Bugs}_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{Send passwordisacomputer a message on github}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{CSS, Bootstrap, JS, Jquery, HTML}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{Anyone may use my website for educational purposes}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_{Chase Bowden}_**
